@@ -30,3 +30,7 @@ class Locale
 $brazilianPortuguese = new Locale('pt', 'br');
 var_dump($brazilianPortuguese->countryCode); // BR
 var_dump($brazilianPortuguese->combinedCode); // pt_BR
+
+$brazilianPortuguese->languageCode = 'it';
+var_dump($brazilianPortuguese->countryCode); // BR
+var_dump($brazilianPortuguese->combinedCode); // it_BR
