@@ -1,6 +1,6 @@
 # #[\Deprecated]
 
-In questo progetto mostro esempi di utilizzo dell'attributo `#[\Deprecated]`
+In questo progetto mostro esempi di utilizzo del nuovo `ext-dom`
 introdotte nella versione di PHP 8.4.1 rilasciata a novembre 2024.
 
 Puoi trovare riferimenti al codice mostrato ai seguenti link:
