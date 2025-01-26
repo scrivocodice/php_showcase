@@ -5,8 +5,8 @@ nella versione di PHP 8.4.1 rilasciata il 21 novembre 2024.
 
 Puoi trovare riferimenti al codice mostrato ai seguenti link:
 
-- [Video YouTube]()
-- [Articolo Blog]()
+- [Video YouTube](https://youtu.be/AlJ85kq6lkc)
+- [Articolo Blog](https://scrivocodice.it/property-hooks-php-codice-piu-semplice/)
 - [Documentazione Ufficiale PHP](https://www.php.net/releases/8.4/en.php)
 
 

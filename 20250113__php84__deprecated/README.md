@@ -5,8 +5,8 @@ introdotte nella versione di PHP 8.4.1 rilasciata a novembre 2024.
 
 Puoi trovare riferimenti al codice mostrato ai seguenti link:
 
-- [Video YouTube]()
-- [Articolo Blog]()
+- [Video YouTube](https://youtu.be/gfZKxyDC_lU)
+- [Articolo Blog](https://scrivocodice.it/attributo-deprecated-php-8-4/)
 - [Documentazione Ufficiale PHP](https://www.php.net/releases/8.4/en.php)
 
 
